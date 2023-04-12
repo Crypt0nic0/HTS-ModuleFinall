@@ -1,0 +1,15 @@
+/Users/ngdev/NGDEV/DotNet/ModuleFinal/bin/Debug/net7.0/ModuleFinal
+/Users/ngdev/NGDEV/DotNet/ModuleFinal/bin/Debug/net7.0/ModuleFinal.deps.json
+/Users/ngdev/NGDEV/DotNet/ModuleFinal/bin/Debug/net7.0/ModuleFinal.runtimeconfig.json
+/Users/ngdev/NGDEV/DotNet/ModuleFinal/bin/Debug/net7.0/ModuleFinal.dll
+/Users/ngdev/NGDEV/DotNet/ModuleFinal/bin/Debug/net7.0/ModuleFinal.pdb
+/Users/ngdev/NGDEV/DotNet/ModuleFinal/obj/Debug/net7.0/ModuleFinal.csproj.AssemblyReference.cache
+/Users/ngdev/NGDEV/DotNet/ModuleFinal/obj/Debug/net7.0/ModuleFinal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ngdev/NGDEV/DotNet/ModuleFinal/obj/Debug/net7.0/ModuleFinal.AssemblyInfoInputs.cache
+/Users/ngdev/NGDEV/DotNet/ModuleFinal/obj/Debug/net7.0/ModuleFinal.AssemblyInfo.cs
+/Users/ngdev/NGDEV/DotNet/ModuleFinal/obj/Debug/net7.0/ModuleFinal.csproj.CoreCompileInputs.cache
+/Users/ngdev/NGDEV/DotNet/ModuleFinal/obj/Debug/net7.0/ModuleFinal.dll
+/Users/ngdev/NGDEV/DotNet/ModuleFinal/obj/Debug/net7.0/refint/ModuleFinal.dll
+/Users/ngdev/NGDEV/DotNet/ModuleFinal/obj/Debug/net7.0/ModuleFinal.pdb
+/Users/ngdev/NGDEV/DotNet/ModuleFinal/obj/Debug/net7.0/ModuleFinal.genruntimeconfig.cache
+/Users/ngdev/NGDEV/DotNet/ModuleFinal/obj/Debug/net7.0/ref/ModuleFinal.dll
